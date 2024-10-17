@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  briefer:
+  - apiVersion: v2
+    appVersion: 0.0.26
+    created: "2024-10-17T19:41:25.971006283Z"
+    description: A chart for installing Briefer and all of it's components.
+    digest: a04035134258c6fd2b15c718b8d6103925fa3ae42336674f4d16ada0c6fe14e2
+    home: https://github.com/briefercloud/briefer/tree/main/helm
+    name: briefer
+    urls:
+    - https://github.com/pseudomuto/charts/releases/download/briefer-0.1.1/briefer-0.1.1.tgz
+    version: 0.1.1
+generated: "2024-10-17T19:41:25.971017965Z"
